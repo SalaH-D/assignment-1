@@ -11,3 +11,48 @@ body {
   justify-content: space-between;
   margin: 2px 150px 60px 150px;
 }
+.awlad {
+  color: #0d1321;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.resume-button {
+  padding: 17px 24px;
+  border-style: solid;
+  cursor: pointer;
+  border-radius: 8px;
+  border-width: 1px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgba(13, 19, 33, 1);
+}
+/* SECTION TASK */
+.section-task {
+  text-align: center;
+  background-image: url("Hero-bg.png");
+}
+.img-div {
+  padding: 25px 0px;
+}
+.heading-text {
+  font-size: 48px;
+}
+.section-description {
+  opacity: 0.7;
+  margin-bottom: 32px;
+}
+.conact-btn {
+  padding: 17px 24px;
+  border-style: solid;
+  cursor: pointer;
+  border-radius: 8px;
+  border-width: 1px;
+  text-decoration: none;
+  font-size: 23px;
+  font-weight: 600;
+  background-color: rgba(13, 19, 33, 1);
+  color: white;
+}
+
